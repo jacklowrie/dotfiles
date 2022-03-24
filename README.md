@@ -16,5 +16,5 @@ Not a whole lot to show for my local. I use [homebrew](https://brew.sh) for
 software/package management, zsh as my shell, and [ZimFW](https://zimfw.sh/)
 with all the behavior modules and about half of the general productivity
 modules turned on to manage shell configuration. Could I manage that directly
-without zim? Probably, but I'm lazy and it's lighter-weight than OhMyZSH, so
-Zim's a happy compromise.
+without zim? Probably, but I'm lazy and it's portable. It's also 
+lighter-weight than OhMyZSH, so Zim's a happy compromise.
