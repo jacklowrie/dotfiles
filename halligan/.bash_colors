@@ -1,0 +1,11 @@
+# Bash colors
+
+export CYAN="0;36"
+export CYANBOLD="1;36"
+export GREENBOLD="1;32"
+export BOLDLIGHTBLUE="1;94"
+
+export TXT_RESET="\[\e[0m\]"
+export TXT_CYAN="\[\e[${CYAN}m\]"
+export TXT_CYANBOLD="\[\e[${CYANBOLD}m\]"
+export TXT_GREENBOLD="\[\e[${GREENBOLD}m\]"
