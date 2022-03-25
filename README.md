@@ -8,7 +8,7 @@ that server. It isn't perfect, but it's close enough and lightyears better
 than the default prompt.
 
 ## Halligan
-I asked to have my shell changed to bash. ZSH is strongly discouraged,
+I asked to have my shell changed to bash. Zsh is strongly discouraged,
 otherwise I'd have switched to that for consistency. Switching to bash is
 simple, all you need to do is email IT and ask (with your user name). 
 
