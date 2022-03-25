@@ -18,3 +18,7 @@ with all the behavior modules and about half of the general productivity
 modules turned on to manage shell configuration. Could I manage that directly
 without zim? Probably, but I'm lazy and it's portable. It's also 
 lighter-weight than OhMyZSH, so Zim's a happy compromise.
+
+In all honesty, after spending all that time setting up halligan, I think I
+understand bash better than zsh. Might be worth switching to bash
+everywhere...
