@@ -4,7 +4,8 @@ All my config files. Turns out version controlling them saves headaches too.
 ## Command Prompt
 In general, I use [starship](https://starship.rs/) where I can. It isn't
 installed on Tuft's Homework servers, so I had to make a custom prompt for
-that server. It isn't perfect, but it's close enough.
+that server. It isn't perfect, but it's close enough and lightyears better
+than the default prompt.
 
 ## Halligan
 I asked to have my shell changed to bash. ZSH is strongly discouraged,
