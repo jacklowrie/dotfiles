@@ -9,16 +9,16 @@ than the default prompt.
 
 ## Halligan
 I asked to have my shell changed to bash. Zsh is strongly discouraged,
-otherwise I'd have switched to that for consistency. Switching to bash is
+otherwise I'd have switched to that just for consistency. Switching to bash is
 simple, all you need to do is email IT and ask (with your user name). 
 
 ## Local
 Not a whole lot to show for my local. I use [homebrew](https://brew.sh) for
-software/package management, zsh as my shell, and [ZimFW](https://zimfw.sh/)
-with all the behavior modules and about half of the general productivity
-modules turned on to manage shell configuration. Could I manage that directly
-without zim? Probably, but I'm lazy and it's portable. It's also 
-lighter-weight than OhMyZSH, so Zim's a happy compromise.
+software/package management, zsh as my shell (only because apple switched), 
+and [ZimFW](https://zimfw.sh/) with all the behavior modules and about half
+of the general productivity modules turned on to manage shell configuration.
+Could I manage that directly without zim? Probably, but I'm lazy and it's
+portable. It's also lighter-weight than OhMyZSH, so Zim's a happy compromise.
 
 In all honesty, after spending all that time setting up halligan, I think I
 understand bash better than zsh. Might be worth switching to bash
